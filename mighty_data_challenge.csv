@@ -1,0 +1,9 @@
+﻿plaintiff_name,plaintiff_address,plainitiff_phone,plaintiff_email,agreement_date,lien_description,lien_open_closed,lienholder,attorney
+Steve Freud,4673 Cardath Ave,(936) 120-0443,sfreud@fake.gmail.com,4/16/2015,"this is the first lien on the case , valued at 6000",OPEN,General Assembly,Joseph Breitstein
+Steve Freud,4673 Cardath Ave,(936) 120-0443,sfreud@fake.gmail.com,4/16/2015,second lien on the case,OPEN,General Assembly,Joseph Breitstein
+Jordan Leung,"9261 Seside pl, NY",(736) 459-1203,charmander6@pokefan.com,9/19/2017,"this interest has settled, waiting for payment",CLOSED,General Assembly,Julian Michaels
+Bryce Eakin,"6947 Palm Beach way, new York, NY 18342",(826) 259-2768,beakin@fake.gmail.com,2/2/2018,700,OPEN,General Assembly,Joseph Breitstein
+Kyle Paine,,,kpaine@fake.gmail.com,6/9/2017,"value is 100,000 pay off is expected to be taken at a reduction",OPEN,General Assembly,
+Mikey Bipps ,,(937) 276-0317,,5/27/2018,"bought at 30% of value, value is 300",OPEN,General Assembly,Joseph Breitstein
+Tommy Boi,,903-6406,,1/2/2019,values is 400,CLOSED,General Assembly,Sarah McConnor
+Mimi Swerve,"8456 Lexington, Manhattan NY",,mimis@fake.yahoo.com,4/7/2017,plaintiff is requesting additional liens,OPEN,General Assembly,Lisle Von Trapp
